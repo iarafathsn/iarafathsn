@@ -58,6 +58,7 @@ iOS • macOS • IoT • System Architecture
 
 * ✅ SwiftGodotKit contribution (merged PR)
   🔗 https://github.com/migueldeicaza/SwiftGodotKit/pull/61
+  🔗 https://github.com/migueldeicaza/SwiftGodotKit/pull/69 
 
 * 🔧 Godot engine fork contribution
   🔗 https://github.com/migueldeicaza/godot/pull/2
