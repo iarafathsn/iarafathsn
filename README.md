@@ -87,4 +87,14 @@ iOS • macOS • IoT • System Architecture
 
 ---
 
+## 👨‍💻 Professional Profiles
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=googlechrome)](https://iarafathsn.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://iarafathsn.github.io/resume/Resume_Md-Arafat-Hossain.pdf)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/4213419/arafat-hossain)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/iarafathsn/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/arafathsn)
+
+---
+
 ⭐ *Open to meaningful engineering discussions, collaboration, and challenging problems.*
